@@ -33,7 +33,7 @@ $mail->isSMTP();
 $mail->Host = 'smtp.gmail.com';
 $mail->SMTPAuth = true;
 $mail->Username = 'noreply30211@gmail.com';
-$mail->Password = 'lqiq ynok ngfh muvr';
+
 $mail->SMTPSecure = 'tls';
 $mail->Port = 587;
 
