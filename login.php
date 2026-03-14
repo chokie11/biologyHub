@@ -109,7 +109,7 @@ if (isset($_POST["create"])) {
                     $mail->Host = 'smtp.gmail.com';
                     $mail->SMTPAuth = true;
                     $mail->Username = 'noreply30211@gmail.com'; // YOUR GMAIL
-                    $mail->Password = 'lqiq ynok ngfh muvr';   // APP PASSWORD
+                  
                     $mail->SMTPSecure = 'tls';
                     $mail->Port = 587;
 
